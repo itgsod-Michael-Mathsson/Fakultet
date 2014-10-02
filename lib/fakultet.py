@@ -8,5 +8,7 @@ def fakultet(nmr):
             fakultet = fakultet * nmr
         return fakultet
 
+fakultet(5)
+
 
 
